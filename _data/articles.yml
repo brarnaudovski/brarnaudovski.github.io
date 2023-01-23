@@ -1,0 +1,22 @@
+- title: Why programming?
+  content:
+    - Programmers and software engineers have become more in demand globally in recent years. Multiple studies indicate trends in job postings in Czechia and Europe, while the software engineering shortage stays big.
+    - In addition, the pandemic showed that remote working is not a blocker to running a successful company, and software engineering teams are one of the most manageable teams in a remote environment.
+      That gives you many work opportunities and competitiveness in all markets, not just Czechia.
+- title: Why web applications?
+  content:
+    - Building web applications covers multiple technologies and development patterns. It is easy to onboard with quick development feedback. It also brings diverse opportunities.
+    - Many web developers have a range of opportunities open to them once they start their careers. Just because you start in web development doesn’t mean you have to stay there. You may love designing and delivering on audience expectations for a website. Or, you may get interested in a specific programming language and focus more on giving commands to the computer. Or, you might get the experience and passion for fully developing apps.
+- title: Learn Ruby on Rails
+  content:
+   - Ruby on Rails is a web development framework using the Ruby programming language. So in the course, you will have a chance to learn the Ruby programming language. The language is friendly for newbies and gives programmers satisfaction. Writing programs in Ruby is like writing in English. And the Rails framework provides tools to build fast and secure websites without having an engineering background.
+- title: Course structure
+  content:
+    - "The course duration is three months, nine hours a week, split into two or three days. Three main sections are:"
+    - bullets
+    - The course focuses on learning the Ruby on Rails framework.
+  bullets:
+   - The Ruby language
+   - Web basics (HTTPS, HTML, CSS, Javascript), and
+   - The Ruby on Rails framework
+- title: About me

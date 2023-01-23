@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+{% for article in site.data.articles %}
+<section>
+  <article class="post-entry">
+    <h1 class="post-title">{{ article.title }}</h1>
+    {% for con in article.content %}
+      {% if con == "bullets" %}
+        {% for bullet in article.bullets %}
+          <li>{{ bullet }}</li>
+        {% endfor %}
+      {% else %}
+        <div class="post-content">
+          {{ con }}
+        </div>
+      {% endif %}
+    {% endfor %}
+  </article>
+</section>
+{% endfor %}
+
+
+{% if jekyll.environment == "production" and site.disqus and page.comments != false %}
+  {% include disqus.html %}
+{% endif %}

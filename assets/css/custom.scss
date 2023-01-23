@@ -3,3 +3,9 @@
 .post-content {
   padding-bottom: 15px;
 }
+
+article {
+  li:last-child {
+    padding-bottom: 15px;
+  }
+}
