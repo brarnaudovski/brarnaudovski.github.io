@@ -1,3 +1,7 @@
 theme: jekyll-theme-tao
 
+plugins:
+  - jekyll-remote-theme
+remote_theme: vfvong/jekyll-theme-tao
+
 title: Learn how to build web applications

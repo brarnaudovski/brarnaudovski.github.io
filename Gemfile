@@ -2,5 +2,5 @@
 
 source "https://rubygems.org"
 
-gem "jekyll"
 gem "jekyll-theme-tao"
+gem "jekyll-remote-theme"
