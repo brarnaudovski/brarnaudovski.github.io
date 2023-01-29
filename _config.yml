@@ -2,4 +2,7 @@ remote_theme: vfvong/jekyll-theme-tao
 plugins:
   - jekyll-remote-theme
 
-title: Learn how to build web applications
+title: Web application mentorship
+description: Become a web developer
+author:
+  avatar: /assets/images/rails_logo.png

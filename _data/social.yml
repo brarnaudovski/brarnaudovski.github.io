@@ -1,0 +1,9 @@
+- title: Email
+  url: mailto:brarnaudovski@gmail.com
+  icon: fas fa-envelope
+- title: Linked In
+  url: https://www.linkedin.com/in/brankoarnaudovski/
+  icon: fab fa-linkedin-in
+- title: GitHub
+  url: https://github.com/brarnaudovski
+  icon: fab fa-github

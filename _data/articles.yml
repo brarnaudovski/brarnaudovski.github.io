@@ -16,7 +16,11 @@
     - bullets
     - The course focuses on learning the Ruby on Rails framework.
   bullets:
-   - The Ruby language
-   - Web basics (HTTPS, HTML, CSS, Javascript), and
-   - The Ruby on Rails framework
+    - The Ruby language
+    - Web basics (HTTPS, HTML, CSS, Javascript), and
+    - The Ruby on Rails framework
 - title: About me
+  content:
+    - My name is Branko Arnaudovski, and I have 10+ years of experience as a software engineer. My passion is web development, building web applications, solving engineering problems, and, most of all, sharing my knowledge. I helped many juniors and people starting this industry build careers throughout my career.
+    - I'm also proud to say I've been a mentor of a large group as part of a code academy.
+    - Write me an <a href="mailto:brarnaudovski@gmail.com" target="_blank"> email </a> if you are interested.
